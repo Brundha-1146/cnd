@@ -1,0 +1,49 @@
+nav{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+h1,ul,li{ 
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+    cursor: pointer;
+}
+li:hover{
+    color: red;
+}
+.home{
+    text-align: center;
+    padding: 20px;
+}
+input{
+    width: 40%;
+    padding: 10px;
+}
+.pic{
+    border-style: solid;
+    border-color: rebeccapurple;
+    border-width:5px;
+    display: inline-block;
+    width: 220px;
+    
+}
+.product{
+   text-align: center;
+   padding: 15px;
+}
+.about{
+    text-align: center;
+    padding: 10px;
+}
+.contact{
+    background-color: black;
+    color: blueviolet;
+    text-align: center;
+    padding: 10px;
+}
+.r{
+    margin-top: 50px;
+}
+   
